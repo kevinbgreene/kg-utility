@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+</head>
+
+<body>
+
+	<script src="js/kg.utility.0.0.0.js"></script>
+
+	<script>
+
+		(function(window, kg) {
+
+			'use strict';
+
+			//usage
+
+			//cross-browser logging.
+			kg.log('hello');
+
+			//css checking
+			kg.log(kg.sniffer.css('transition'));
+
+			//array testing
+			var arr = [];
+			kg.log(kg.isArray(arr));
+
+		}(window, window.kg));
+
+	</script>
+	
+</body>
+
+</html>

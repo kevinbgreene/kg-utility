@@ -1,0 +1,18 @@
+{
+  "name": "kg-utility",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kevinbgreene/kg-utility",
+  "authors": [
+    "Kevin B. Greene <hightimesteddy@gmail.com>"
+  ],
+  "description": "utility functions including feature detection",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dev/js/vendor/",
+    "test",
+    "tests"
+  ]
+}

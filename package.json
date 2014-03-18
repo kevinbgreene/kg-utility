@@ -1,0 +1,26 @@
+{
+  "name": "kg-utility",
+  "version": "0.0.0",
+  "description": "utility functions including feature detection",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-watch": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinbgreene/kg-utility.git"
+  },
+  "author": "Kevin B. Greene",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kevinbgreene/kg-utility/issues"
+  }
+}
